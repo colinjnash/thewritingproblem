@@ -1,3 +1,3 @@
 # Writing Problem
 
-Initial scaffold for anothe personal site. This is purely for fun.
+Initial scaffold for another personal site. This is purely for fun.
